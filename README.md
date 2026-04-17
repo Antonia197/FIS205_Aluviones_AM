@@ -11,5 +11,5 @@ Este repositorio contiene la arquitectura base de una Red Neuronal Informada por
 * **Optimización:** Loop de entrenamiento inicial utilizando el algoritmo Adam.
 
 ### Cómo ejecutar:
-1. Instalar dependencias: `pip install -r requirements.txt`
-2. Ejecutar: `python main_pinn.py`
+1. Instalar dependencias: `pip install -r requerimientos.txt`
+2. Ejecutar: `python modelado_aluvion.py`
